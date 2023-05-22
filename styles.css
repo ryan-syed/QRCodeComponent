@@ -57,7 +57,7 @@ body {
 }
 
 .container p {
-    color: var(--light-gray);
+    color: var(--grayish-blue);
 }
 
 @media (min-width: 500px) {
