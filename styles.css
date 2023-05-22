@@ -54,10 +54,12 @@ body {
 .container h1 {
     color: var(--dark-blue);
     margin-bottom: 1rem;
+    text-align: center;
 }
 
 .container p {
     color: var(--grayish-blue);
+    text-align: center;
 }
 
 @media (min-width: 500px) {
